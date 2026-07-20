@@ -1,8 +1,8 @@
-#Linux Notes
+# Linux Notes
 
 ## Commands Learnt
 
-##1. pwd 
+## 1. pwd 
 purpose :  shows the currently working director
 
 Cybersecurity purpose : used to verify the current location before performing operations on a file.
