@@ -1,3 +1,4 @@
 1. The Miscrosoft SEntinel workspace
+I created log analytics workspace named 'sentinel-workspace inside the 'sentinel-rg' resourse group in the UK south region.
 2. Deploy the Miscrosoft Sentinel Training Lab Solution
 3. configure Microsoft Sentinel Playbook
